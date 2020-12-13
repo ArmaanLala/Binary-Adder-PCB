@@ -2,8 +2,8 @@
 ##Summary
 This circuit uses the 4-bit adder IC.
 
-## Schamtic and Board layout
-![Schamatic View](https://github.com/ArmaanLala/Binary-Adder-PCB/blob/master/Images/Schematic.PNG?raw=true)
+## Schematic and Board layout
+![Schematic View](https://github.com/ArmaanLala/Binary-Adder-PCB/blob/master/Images/Schematic.png?raw=true)
 
 The figure above shows a schematic of the Binary Adder circuit. 
 Layout summary:
