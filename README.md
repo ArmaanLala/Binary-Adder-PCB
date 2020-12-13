@@ -5,7 +5,7 @@ A user flicks the two dip switches and LEDs lights up.
 
 Work in progress
 
-![Board PCB](/Images/Board.jpg)
+![Board PCB](https://github.com/ArmaanLala/Binary-Adder-PCB/blob/master/Images/Board.JPG?raw=true)
 
 Work in progress
-![Schamatic View](/Images/Schematic.jpg)
+![Schamatic View](https://github.com/ArmaanLala/Binary-Adder-PCB/blob/master/Images/Schematic.JPG?raw=true)
