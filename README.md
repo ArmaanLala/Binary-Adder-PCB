@@ -19,5 +19,5 @@ Layout summary:
 - The 4008N in between input switches and out LEDs.
 - The LEDs near the opp.
 
-##Credits
+## Credits
 This Eagle project is a personal collaboration project between Armaan Lala and Peter Chu.
