@@ -1,5 +1,5 @@
 # Binary-Adder-PCB
-##Summary
+## Summary
 This circuit uses the 4-bit adder IC.
 
 ## Schematic and Board layout
